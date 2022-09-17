@@ -1,4 +1,4 @@
-### Hi there 👋
+- 👋 Hi, I’m Akshit 
 - 🔭 I’m currently working at Larsen & Toubro Infotech (LTI)
 - 📫 How to reach me: akshitagarwal27@gmail.com
 
