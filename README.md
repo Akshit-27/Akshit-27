@@ -1,6 +1,5 @@
 ### Hi there 👋
 - 🔭 I’m currently working at Larsen & Toubro Infotech (LTI)
-- 🌱 I’m currently learning cloud
 - 📫 How to reach me: akshitagarwal27@gmail.com
 
 <!--
